@@ -1,4 +1,4 @@
-# 🎙️ Voice Assistant App
+# 🎙️ AI-Voice Assistant App
 
 A cross-platform AI Voice Assistant built with **Flutter** and **OpenAI APIs** that supports real-time voice input, natural language processing, and dynamic image generation.
 
