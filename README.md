@@ -1,21 +1,27 @@
-<<<<<<< HEAD
-# enigma-ai
-Voice Assistant with ChatGPT &amp; Dall-E AI Image Generation
-=======
-# enigma
+# 🎙️ Voice Assistant App
 
-A new Flutter project.
+A cross-platform AI Voice Assistant built with **Flutter** and **OpenAI APIs** that supports real-time voice input, natural language processing, and dynamic image generation.
 
-## Getting Started
+## 🚀 Overview
 
-This project is a starting point for a Flutter application.
+This application allows users to interact with an AI assistant using voice commands. Leveraging OpenAI’s powerful language models and Flutter’s UI toolkit, the app supports:
+- Voice-to-text interaction
+- Conversational AI responses
+- Dynamic image generation
+- A responsive and smooth chat-style user interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** for cross-platform mobile development
+- **OpenAI APIs** for conversational AI and image generation
+- **speech_to_text** plugin for real-time voice recognition
+- **Dart** language
+- **REST APIs** for backend integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d26337a (initial Commit)
+## ✨ Key Features
+
+- 🎤 Hands-free voice command support via real-time speech recognition
+- 💬 Conversational responses using OpenAI’s GPT models
+- 🖼️ Image generation from prompts (via DALL·E or similar APIs)
+- 🛡️ Robust error handling to improve reliability and reduce app crashes
+- 💬 Responsive chat UI with mic button, loading states, and auto-scroll
