@@ -23,28 +23,9 @@ This application provides a seamless, hands-free conversational experience, capa
 
 ---
 
-## 🛠️ Getting Started
-
-Follow these steps to set up the project locally:
-
 ### Prerequisites
 - Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
 - Obtain an active **OpenAI API key**  
-
-### Installation
-Installation
-Clone the repository:
-
-git clone https://github.com/yourusername/voice-assistant-app.git
-
-Navigate to the project directory:
-
-cd voice-assistant-app
-
-Install the required dependencies:
-
-flutter pub get
-
 Add your OpenAI API key to the project. (Refer to the official Flutter documentation on how to securely handle API keys).
 
 Run the application:
