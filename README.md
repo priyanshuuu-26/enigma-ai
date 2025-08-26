@@ -32,6 +32,21 @@ Follow these steps to set up the project locally:
 - Obtain an active **OpenAI API key**  
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant-app.git
+Installation
+Clone the repository:
+
+git clone https://github.com/yourusername/voice-assistant-app.git
+
+Navigate to the project directory:
+
+cd voice-assistant-app
+
+Install the required dependencies:
+
+flutter pub get
+
+Add your OpenAI API key to the project. (Refer to the official Flutter documentation on how to securely handle API keys).
+
+Run the application:
+
+flutter run
