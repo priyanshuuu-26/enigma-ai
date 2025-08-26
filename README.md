@@ -1,55 +1,37 @@
-🎙️ AI Voice Assistant App
-A modern, cross-platform AI voice assistant built with Flutter and the OpenAI API. This application provides a seamless, hands-free conversational experience, capable of generating both text responses and relevant images.
+# 🎙️ AI Voice Assistant App
 
-✨ Features
-Cross-Platform Support: Developed with Flutter to run on multiple platforms from a single codebase.
+A modern, cross-platform AI voice assistant built with **Flutter** and the **OpenAI API**.  
+This application provides a seamless, hands-free conversational experience, capable of generating both text responses and relevant images.
 
-High Accuracy: Achieves a 95% accuracy in generating relevant images and conversational responses powered by OpenAI.
+---
 
-Hands-Free Interaction: Utilizes a speech-to-text plugin for real-time voice recognition, allowing for a completely hands-free user experience.
+## ✨ Features
 
-Robust Performance: Features comprehensive error handling for OpenAI API calls, which has been shown to decrease crashes by 40% and boost user satisfaction by 25%.
+- **Cross-Platform Support**: Built with Flutter to run on multiple platforms from a single codebase.  
+- **High Accuracy**: Achieves up to **95% accuracy** in generating relevant images and conversational responses powered by OpenAI.  
+- **Hands-Free Interaction**: Real-time speech recognition using a speech-to-text plugin for a truly hands-free experience.  
+- **Robust Performance**: Comprehensive error handling reduces crashes by **40%** and improves user satisfaction by **25%**.  
+- **Intuitive UI**: Clean, chat-style interface with interactive microphone controls, dynamic loading indicators, and auto-scrolling.  
 
-Intuitive UI: A clean, responsive, chat-style user interface with interactive microphone controls, dynamic loading indicators, and auto-scrolling to keep the conversation in view.
+---
 
-🚀 Technologies Used
-Flutter: For building the native, cross-platform application.
+## 🚀 Technologies Used
 
-OpenAI API: The core engine for generating intelligent and conversational responses.
+- **Flutter** – Cross-platform app development  
+- **OpenAI API** – Conversational intelligence & image generation  
+- **Speech-to-Text Plugin** – Real-time voice input & transcription  
 
-Speech-to-Text Plugin: For real-time voice input and transcription.
+---
 
-🛠️ Getting Started
-To get a local copy up and running, follow these simple steps.
+## 🛠️ Getting Started
 
-Prerequisites
-Flutter SDK installed
+Follow these steps to set up the project locally:
 
-An active OpenAI API key
+### Prerequisites
+- Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- Obtain an active **OpenAI API key**  
 
-Installation
-Clone the repository:
-
-git clone https://github.com/yourusername/voice-assistant-app.git
-
-Navigate to the project directory:
-
-cd voice-assistant-app
-
-Install the required dependencies:
-
-flutter pub get
-
-Add your OpenAI API key to the project. (Refer to the official Flutter documentation on how to securely handle API keys).
-
-Run the application:
-
-flutter run
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-📞 Contact
-Your Name - [your-email@example.com]
-
-Project Link: https://github.com/yourusername/voice-assistant-app
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/voice-assistant-app.git
