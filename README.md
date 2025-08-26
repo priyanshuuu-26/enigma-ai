@@ -27,7 +27,3 @@ This application provides a seamless, hands-free conversational experience, capa
 - Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
 - Obtain an active **OpenAI API key**  
 Add your OpenAI API key to the project. (Refer to the official Flutter documentation on how to securely handle API keys).
-
-Run the application:
-
-flutter run
